@@ -6,3 +6,7 @@ I was looking for micropython driver for BLDC motors FOC library but this is the
 Thus i started from Simple foc algorism to make a library that actually works, and it does
 
 The AS5600 library comes from that.
+
+The video shows it driving a generator backwards to make it spin. 
+
+For regular FOC, the functions should be fairly self explainatory, just change your pins and it should just work.
