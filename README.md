@@ -7,8 +7,8 @@ Thus i started from Simple foc algorism to make a library that actually works, a
 
 The AS5600 library comes from that.
 
-The video shows it driving a generator backwards to make it spin. 
+The gif shows it driving a generator backwards to make it spin. 
 
-![Demo](https://github.com/I-am-the-senate/FOCmicropython/raw/refs/heads/main/demo.mp4)
+![demo](https://github.com/I-am-the-senate/FOCmicropython/blob/main/demo%20(1).gif)
 
 For regular FOC, the functions should be fairly self explainatory, just change your pins and it should just work.
