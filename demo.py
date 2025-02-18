@@ -29,9 +29,9 @@ poles = 18
 shaftangle = 0
 targetvelocity = 6.28
 timestampopen = 0
-pwmA = PWM(Pin(12, Pin.OUT), 30000)
-pwmB = PWM(Pin(13, Pin.OUT), 30000)
-pwmC = PWM(Pin(14, Pin.OUT), 30000)
+pwmA = PWM(Pin(7, Pin.OUT), 17000)
+pwmB = PWM(Pin(8, Pin.OUT), 17000)
+pwmC = PWM(Pin(9, Pin.OUT), 17000)
 
 
 
